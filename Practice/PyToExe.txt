@@ -1,0 +1,8 @@
+pip install pyinstaller
+
+pyinstaller filename.py
+
+E:\PycharmProjects\pythonProject\dist\main>  filename.exe  "Go to dist->main folder in command line and start the
+                                                           exe file"
+
+pyinstaller --onefile filename.py  "If we want to create just one file in dist folder"
