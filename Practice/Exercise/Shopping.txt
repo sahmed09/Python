@@ -1,0 +1,11 @@
+Shihab Enterprise
+Recipient : Shihab
+item 0 : 36
+item 1 : 66
+item 2 : 96
+item 3 : 68
+item 4 : 78
+item 5 : 99
+item 6 : 0
+item 7 : 20
+Your total bill is 463.0. Thanks for shopping.
