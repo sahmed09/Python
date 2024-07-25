@@ -1,0 +1,16 @@
+2024-02-26 22:26:02 WARNING-Log Warning Message
+2024-02-26 22:26:02 ERROR-Log Error Message
+2024-02-26 22:26:02 WARNING-Log Warning Message
+2024-02-26 22:26:02 CRITICAL-Log Critical Message
+2024-02-26 22:26:02 WARNING-Log Warning Message
+2024-02-26 22:26:02 ERROR-Log Error Message
+2024-02-26 22:26:02 WARNING-Log Warning Message
+2024-02-26 22:26:02 ERROR-Log Error Message
+2024-02-26 22:26:02 WARNING-Log Warning Message
+2024-02-26 22:26:02 CRITICAL-Log Critical Message
+2024-02-26 22:26:02 WARNING-Log Warning Message
+2024-02-26 22:26:02 ERROR-Log Error Message
+2024-02-26 22:26:02 WARNING-Log Warning Message
+2024-02-26 22:26:02 ERROR-Log Error Message
+2024-02-26 22:26:02 WARNING-Log Warning Message
+2024-02-26 22:26:02 ERROR-Division by 0 Error
