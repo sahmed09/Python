@@ -1,0 +1,3 @@
+select employee_ID, name from employee_information
+where division='HR' and employee_ID in(select employee_id from
+last_quarter_bonus where bonus>=5000);
